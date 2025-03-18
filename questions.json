@@ -1,0 +1,92 @@
+[
+    {
+        "type": "synonym",
+        "question": "Choose the synonym of 'ENORMOUS'",
+        "options": ["Tiny", "Huge", "Average", "Weak"],
+        "correct_option": 1
+    },
+    {
+        "type": "antonym",
+        "question": "Choose the antonym of 'BENEVOLENT'",
+        "options": ["Kind", "Generous", "Malevolent", "Charitable"],
+        "correct_option": 2
+    },
+    {
+        "type": "spot_error",
+        "question": "Spot the error: 'Neither the principal nor the teachers was present at the meeting.'",
+        "options": ["Neither", "nor", "was", "No error"],
+        "correct_option": 2
+    },
+    {
+        "type": "synonym",
+        "question": "Choose the synonym of 'DILIGENT'",
+        "options": ["Lazy", "Careless", "Hardworking", "Negligent"],
+        "correct_option": 2
+    },
+    {
+        "type": "antonym",
+        "question": "Choose the antonym of 'FRUGAL'",
+        "options": ["Economical", "Thrifty", "Extravagant", "Careful"],
+        "correct_option": 2
+    },
+    {
+        "type": "spot_error",
+        "question": "Spot the error: 'The committee have decided to postpone the meeting.'",
+        "options": ["The", "committee", "have", "No error"],
+        "correct_option": 2
+    },
+    {
+        "type": "synonym",
+        "question": "Choose the synonym of 'AUDACIOUS'",
+        "options": ["Timid", "Bold", "Cautious", "Fearful"],
+        "correct_option": 1
+    },
+    {
+        "type": "antonym",
+        "question": "Choose the antonym of 'VERBOSE'",
+        "options": ["Concise", "Wordy", "Lengthy", "Detailed"],
+        "correct_option": 0
+    },
+    {
+        "type": "spot_error",
+        "question": "Spot the error: 'One of my friend are coming to the party.'",
+        "options": ["One", "of my friend", "are", "No error"],
+        "correct_option": 2
+    },
+    {
+        "type": "synonym",
+        "question": "Choose the synonym of 'PERNICIOUS'",
+        "options": ["Beneficial", "Harmful", "Helpful", "Advantageous"],
+        "correct_option": 1
+    },
+    {
+        "type": "antonym",
+        "question": "Choose the antonym of 'EPHEMERAL'",
+        "options": ["Temporary", "Fleeting", "Lasting", "Brief"],
+        "correct_option": 2
+    },
+    {
+        "type": "spot_error",
+        "question": "Spot the error: 'Each of the students have submitted their assignments.'",
+        "options": ["Each", "have", "their", "No error"],
+        "correct_option": 1
+    },
+    {
+        "type": "synonym",
+        "question": "Choose the synonym of 'PRUDENT'",
+        "options": ["Reckless", "Wise", "Careless", "Impulsive"],
+        "correct_option": 1
+    },
+    {
+        "type": "antonym",
+        "question": "Choose the antonym of 'LETHARGIC'",
+        "options": ["Energetic", "Sluggish", "Lazy", "Slow"],
+        "correct_option": 0
+    },
+    {
+        "type": "spot_error",
+        "question": "Spot the error: 'The quality of these mangoes are excellent.'",
+        "options": ["The quality", "of these mangoes", "are", "No error"],
+        "correct_option": 2
+    }
+]
